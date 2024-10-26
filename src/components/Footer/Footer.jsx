@@ -52,8 +52,8 @@ const Footer = () => {
             <div className="bottom-bar">
                 <div className="bottom-bar-content">
                     <span className="text">
-                        JSDEVSTORE 2022 CREATED BY JS DEV. PREMIUM E-COMMERCE
-                        SOLUTIONS.
+                        CREATED BY SUYOG CHAVAN PREMIUM E-COMMERCE
+                        WEBPAGE.
                     </span>
                     <img src={Payment} />
                 </div>
